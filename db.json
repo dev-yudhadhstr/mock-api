@@ -81,5 +81,49 @@
             "accessToken": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpZFVzZXIiOiIyMDIxMTAwNDciLCJuYW1hIjoiWXVkaGEgWXVkaGlzdGlyYSIsImlzcyI6Ii9hcGkvYXV0aC92MS9sb2dpbiIsIm5pY2tuYW1lIjoiWVVESEEgWVVEIiwicHJvamVjdCI6WyJTSU1SUyIsIlNTIiwiUklTIl0sImV4cCI6MTcxMzE2OTgyMywicHVibGljSWQiOiJlMmRkZGE0YS1kZGY2LTRjNGYtYjUxYy1hMzA4MmUxNDc1NTQiLCJ1c2VybmFtZSI6IjI4OTYifQ.Enwts66v0A9y9S9YUMUMMqFuC3j1WE_gWKDBacwB4Mk",
             "refreshToken": "2CDovJjzk00cpAtigcaBeq0MktgrN7vUV0A0tKE4OJ5rDtCKJRqy+GczLCc1TFnt/k0CWRtsWV2ZC257AMyrj3ToKdSeju4cP+eKT9n8W40Mlyy5DJWRqnUnMRCAzUmiXArfVGY5yLKO6TojcI0CzKzopg2QO5yyCk51xTA87J4PveRIvO4MWhqZ3j/8zqKZdrPP0WVu8y5kQ/B3B/29Mh/0SOS7w0tLYuf9QiXjdZOag3aCc5akteSnOV/f4KrA/M2SmZwvVwMMNN1J85+EjSmKL2ViCISTlozIrc1zIgW0PGqJwhfcLhBvMXkpZ1ygjlkH2/+7yzyNAY5sQM1Dag=="
         }
+    }, 
+        "pasienRadiologi": [
+    {
+        "noRadiologi": "11:00 - 13:00",
+        "noRm": "Edhi Dharma, dr.",
+        "nama": "95",
+        "hasil": "28",
+        "release": "10001",
+        "supp": "P1",
+        "suppRel": "24-05-2024 10:51:06",
+        "resPrn": 1,
+        "supPrn": "24-05-2024 ",
+        "waktuTunggu": "Jumat",
+        "tglHasil": "",
+        "asalTransaksi": "UMUM"
+    },
+    {
+        "noRadiologi": "11:00 - 13:00",
+        "noRm": "Edhi Dharma, dr.",
+        "nama": "95",
+        "hasil": "28",
+        "release": "10001",
+        "supp": "P1",
+        "suppRel": "24-05-2024 10:51:06",
+        "resPrn": 1,
+        "supPrn": "24-05-2024 ",
+        "waktuTunggu": "Jumat",
+        "tglHasil": "",
+        "asalTransaksi": "UMUM"
+    },
+    {
+        "noRadiologi": "11:00 - 13:00",
+        "noRm": "Edhi Dharma, dr.",
+        "nama": "95",
+        "hasil": "28",
+        "release": "10001",
+        "supp": "P1",
+        "suppRel": "24-05-2024 10:51:06",
+        "resPrn": 1,
+        "supPrn": "24-05-2024 ",
+        "waktuTunggu": "Jumat",
+        "tglHasil": "",
+        "asalTransaksi": "UMUM"
     }
+]
 }
