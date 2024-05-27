@@ -84,6 +84,7 @@
     }, 
         "pasienRadiologi": [
     {
+        "index": "1",
         "noRadiologi": "2402266218",
         "noRm": "093245",
         "nama": "Chantavit Dhanasevi",
@@ -98,6 +99,7 @@
         "asalTransaksi": "ralan / bedah tulang"
     },
     {
+         "index": "2",
         "noRadiologi": "2402266217",
         "noRm": "111245",
         "nama": "Cha Eun-woo",
@@ -112,6 +114,7 @@
         "asalTransaksi": "igd"
     },
     {
+         "index": "3",
         "noRadiologi": "2402266216",
         "noRm": "973410",
         "nama": "Priyanka Chopra",
