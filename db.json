@@ -96,7 +96,8 @@
         "supPrn": "N",
         "waktuTunggu": "01:00:00",
         "tglHasil": "2024-02-04",
-        "asalTransaksi": "ralan / bedah tulang"
+        "asalTransaksi": "ralan / bedah tulang",
+         "id": "62753e63-09ae-43d6-85d2-db54c25f6846"
     },
     {
         "indexs": "2",
@@ -111,7 +112,8 @@
         "supPrn": "N",
         "waktuTunggu": "01:56:00",
         "tglHasil": "2024-02-04",
-        "asalTransaksi": "igd"
+        "asalTransaksi": "igd",
+        "id": "e230e82b-17bf-4286-8f1f-d9c69253f2e6"
     },
     {
         "indexs": "3",
@@ -126,7 +128,8 @@
         "supPrn": "N",
         "waktuTunggu": "03:00:00",
         "tglHasil": "2024-02-04",
-        "asalTransaksi": "ranap/EG3SU"
+        "asalTransaksi": "ranap/EG3SU", 
+        "id": "46dda391-fab9-4776-9fd7-66e63049cea1"
     }
 ]
 }
